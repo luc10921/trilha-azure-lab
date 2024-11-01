@@ -14,3 +14,11 @@ Existem 3 tipos diferentes de computação em nuvem:
 ## CapEx e OpEx
 - CapEx (Capital expenditure): Despesa de capital é o termo usado pro dinheiro gasto com o custo inicial do ambiente físico e equipamentos de nuvem e tende a reduzir com o passar do tempo.
 - OpEx (Operational Expenditure): Despesa operacional é termo usado pra se referir ao custo de manter produtos e serviços.
+
+## Tipos de serviço de nuvem
+- IaaS (Infraestrutura como serviço)
+	- Serviço de nuvem mais flexível, o usuário que vai ter que configurar e gerenciar o hardware para seu aplicativo.
+- PaaS (Plataforma como serviço)
+	- Serviço focado em permitir o usuário a desenvolver aplicativos.
+- SaaS (Software como serviço)
+	- Usuário paga conforme o uso. É um modelo de assinatura.
